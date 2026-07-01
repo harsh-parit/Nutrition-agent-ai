@@ -20,7 +20,8 @@
 ---
 
 ## Demo Video
-[![Nutrition AI Agent Demo]](https://www.youtube.com/watch?v=2doAh6i_0Ow)
+
+[![Nutrition AI Agent Demo](https://img.youtube.com/vi/2doAh6i_0Ow/maxresdefault.jpg)](https://www.youtube.com/watch?v=2doAh6i_0Ow)
 
 ---
 
