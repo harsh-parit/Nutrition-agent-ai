@@ -20,6 +20,7 @@
 ---
 
 ## Demo Video
+Click the image below to watch **Demo Video**
 
 [![Nutrition AI Agent Demo](https://img.youtube.com/vi/2doAh6i_0Ow/maxresdefault.jpg)](https://www.youtube.com/watch?v=2doAh6i_0Ow)
 
